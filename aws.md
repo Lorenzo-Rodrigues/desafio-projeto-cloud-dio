@@ -1,4 +1,4 @@
-\# RELATÃ“RIO DE IMPLEMENTAÃ‡ÃƒO DE SERVIÃ‡OS AWS
+\# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 
 
@@ -6,19 +6,19 @@ Data: \[04/11/2025]
 
 Empresa: Abstergo Industries 
 
-ResponsÃ¡vel: \[Lorenzo Rodrigues]
+Responsável: \[Lorenzo Rodrigues]
 
 
 
-\## IntroduÃ§Ã£o
+\## Introdução
 
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa \[Abstergo Industries], realizado por \[Lorenzo Rodrigues]. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de levar essa empresa para o ambiente cloud.
+Este relatório apresenta o processo de implementação de ferramentas na empresa \[Abstergo Industries], realizado por \[Lorenzo Rodrigues]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de levar essa empresa para o ambiente cloud.
 
 
 
-\## DescriÃ§Ã£o do Projeto
+\## Descrição do Projeto
 
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 
 
@@ -54,15 +54,16 @@ Etapa 3:
 
 
 
-\## ConclusÃ£o
+\## Conclusão
 
-A implementaÃ§Ã£o de ferramentas na empresa \*\[Abstergo Industries] tem como esperado \[levar a empresa para o ambiente cloud]\*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa \*\[Abstergo Industries] tem como esperado \[levar a empresa para o ambiente cloud]\*, o que aumentará¡ a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsável pelo Projeto:
 
 
 
 \[Lorenzo Rodrigues]
+
 
